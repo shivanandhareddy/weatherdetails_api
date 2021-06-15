@@ -1,6 +1,7 @@
+
 # weatherdetails_api
 
-It is an applicatio which gives the details about the weather of the current day by specifing the location.
+It is an application which gives the details about the weather of the current day by specifying the location.
 
 this project uses api to get details about weather,it uses openweathermap api.
 
